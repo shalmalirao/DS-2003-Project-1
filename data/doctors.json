@@ -1,0 +1,74 @@
+[
+  {
+    "id": 101,
+    "first_name": "Alice",
+    "last_name": "Patel",
+    "specialty": "Cardiology",
+    "department": "Cardiology",
+    "years_experience": 12,
+    "job_title": "Attending Physician"
+  },
+  {
+    "id": 102,
+    "first_name": "Benjamin",
+    "last_name": "Lee",
+    "specialty": "Neurology",
+    "department": "Neurology",
+    "years_experience": 9,
+    "job_title": "Consultant"
+  },
+  {
+    "id": 103,
+    "first_name": "Carla",
+    "last_name": "Gomez",
+    "specialty": "Orthopedics",
+    "department": "Orthopedics",
+    "years_experience": 15,
+    "job_title": "Senior Surgeon"
+  },
+  {
+    "id": 104,
+    "first_name": "David",
+    "last_name": "Nguyen",
+    "specialty": "Cardiology",
+    "department": "Cardiology",
+    "years_experience": 6,
+    "job_title": "Resident"
+  },
+  {
+    "id": 105,
+    "first_name": "Emily",
+    "last_name": "Chen",
+    "specialty": "Pediatrics",
+    "department": "Pediatrics",
+    "years_experience": 8,
+    "job_title": "Pediatrician"
+  },
+  {
+    "id": 106,
+    "first_name": "Farah",
+    "last_name": "Hassan",
+    "specialty": "Dermatology",
+    "department": "Dermatology",
+    "years_experience": 11,
+    "job_title": "Consultant"
+  },
+  {
+    "id": 107,
+    "first_name": "George",
+    "last_name": "Ibrahim",
+    "specialty": "Family Medicine",
+    "department": "Primary Care",
+    "years_experience": 5,
+    "job_title": "General Practitioner"
+  },
+  {
+    "id": 108,
+    "first_name": "Hannah",
+    "last_name": "Rogers",
+    "specialty": "Endocrinology",
+    "department": "Endocrinology",
+    "years_experience": 10,
+    "job_title": "Endocrinologist"
+  }
+]

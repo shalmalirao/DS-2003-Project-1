@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,gender,date_of_birth,city,state,insurance_type
+201,Olivia,Johnson,Female,1985-03-12,Charlottesville,VA,BlueCross PPO
+202,Liam,Smith,Male,1978-09-22,Richmond,VA,Aetna EPO
+203,Emma,Williams,Female,1990-11-05,Norfolk,VA,UnitedHealth HMO
+204,Noah,Brown,Male,1982-07-18,Roanoke,VA,BlueCross PPO
+205,Ava,Jones,Female,1995-01-29,Charlottesville,VA,UnitedHealth HMO
+206,Elijah,Garcia,Male,1988-04-09,Virginia Beach,VA,Aetna PPO
+207,Sophia,Miller,Female,1993-02-15,Newport News,VA,BlueCross PPO
+208,James,Davis,Male,1980-10-30,Harrisonburg,VA,Aetna EPO
+209,Isabella,Martinez,Female,1998-06-12,Charlottesville,VA,UnitedHealth HMO
+210,Lucas,Lopez,Male,1986-05-23,Fredericksburg,VA,BlueCross PPO

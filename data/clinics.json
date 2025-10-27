@@ -1,0 +1,23 @@
+[
+  {
+    "clinic_id": 1,
+    "name": "UVA Cardiology Center",
+    "department": "Cardiology",
+    "city": "Charlottesville",
+    "state": "VA"
+  },
+  {
+    "clinic_id": 2,
+    "name": "UVA Neurology Center",
+    "department": "Neurology",
+    "city": "Charlottesville",
+    "state": "VA"
+  },
+  {
+    "clinic_id": 3,
+    "name": "UVA Pediatrics",
+    "department": "Pediatrics",
+    "city": "Charlottesville",
+    "state": "VA"
+  }
+]
