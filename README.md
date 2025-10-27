@@ -30,6 +30,10 @@ All ETL code located in `etl.ipynb`
 
 ### 2. Transform
 * Clean and rename columns
+* Modify columns
+  - DimDoctor: Added boolean `is_senior` flag based on `years_experience ≥ 10`
+  - DimClinic: Combined `city` and `state` into a single `location` column, dropping the originals
+  - DimPatient: Derived numeric `age` from `date_of_birth` and removed the original DOB field
 * Join doctor → department → clinic mapping
 * Generate integer `DateKey` (YYYYMMDD) from appointment timestamps
 * Add surrogate `AppointmentKey`
